@@ -1,3 +1,8 @@
+/*
+Author junhyunk <junh816@hanmail.net>
+LICENSE under BSD
+*/
+
 function compress(str) {
   var repeat = 1;
   var result = str.charAt(0);
